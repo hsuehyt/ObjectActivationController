@@ -1,4 +1,3 @@
-```markdown
 # ObjectActivationController
 
 **ObjectActivationController** is a Unity script that cycles through a list of GameObjects, activating one at a time for a specified duration before switching to the next. Only one object is active at any given time, forming a continuous loop.
